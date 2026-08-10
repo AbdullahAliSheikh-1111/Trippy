@@ -1,0 +1,41 @@
+export const MenuItems= [
+{
+title : "Home",
+url:"/",
+cName:"nav-links",
+icon:"fa-solid fa-house-tsunami"
+} ,
+
+
+{
+title : "About",
+url:"/about",
+cName:"nav-links",
+icon:"fa-solid fa-circle-info"
+} ,
+
+
+{
+title : "Service",
+url:"/service",
+cName:"nav-links",
+icon:"fa-solid fa-server"
+} ,
+
+
+
+{
+title : "Contact",
+url:"/contact",
+cName:"nav-links",
+icon:"fa-solid fa-address-book"
+}
+,
+
+{
+title : "Signup",
+url:"/signup",
+cName:"nav-links-mobile",
+}
+]
+
