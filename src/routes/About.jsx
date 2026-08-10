@@ -2,7 +2,7 @@ import Navbar from "../components/Navbar"
 import Hero from "../components/Hero"
 import Img from "../assets/night.jpg"
 import Footer from "../components/Footer.jsx"
-import AboutUs from "../components/Aboutus.jsx"
+import AboutUs from "../components/AboutUs.jsx"
 
 function About(){
     return(
